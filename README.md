@@ -1,11 +1,11 @@
 # daydays
 
 
-#.gitHub 我的一个gitHub ,记录每日遇到的问题
+#.#gitHub 我的一个gitHub ,记录每日遇到的问题
 
 
 
-#  pointer-events属性值详解
+# #pointer-events属性值详解
 
 可以用于暂时鼠标点击失效，无法点击
 pointer-events:  auto | none | visiblePainted | visibleFill | visibleStroke | visible | painted | fill | stroke | all | inherit
